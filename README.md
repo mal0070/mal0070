@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I'm majoring in Smart ICT Convergence, Global Business in Konkuk University.
+- 🔭 I'm majoring in Smart ICT Convergence, Global Business at Konkuk University.
 - 🤔 I’m interested in iOS, Deep Learning, Statistics.
+- 🗣 I am able to speak Korean(mother tongue), English(fluent), French(intermediate)
 - 📫 How to reach me: leemina0815@gmail.com
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=mal0070&show_icons=true&hide_border=true)](https://github.com/mal0070)
