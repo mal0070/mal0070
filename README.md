@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I'm majoring in Smart ICT Convergence, Global Business at Konkuk University.
-- 🤔 I’m interested in Server, iOS, Deep Learning.
+- 🤔 I’m interested in Web App development.
 - 🗣 I am able to speak Korean(Native language), English(fluent), Chinese(intermediate).
 - 📫 How to reach me: leemina0815@gmail.com
 
