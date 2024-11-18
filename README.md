@@ -1,31 +1,45 @@
-### 안녕하세요 성장하는 개발자 이민아입니다.👋
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmal0070)](https://hits.seeyoufarm.com)
-<!--
-**mal0070/mal0070** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Minah's%20GitHub&fontSize=90" />
+</div>
 
-Here are some ideas to get you started:
+<h3 align="center">✨ Tech Stack ✨</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
+  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
+  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://img.shields.io/badge/iOS-0000FF.svg?style=for-the-badge&logo=iOS&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Swift-E34F26.svg?style=for-the-badge&logo=Swift&logoColor=white" />&nbsp
+</div>
 
-- 🔭 I majored in Smart ICT Convergence, Global Business at Konkuk University.
-- 🤔 I’m interested in Web App development.
-- 🗣 I am able to speak Korean(Native language), English(Advanced).
-- 📫 How to reach me: leemina0815@gmail.com
+<br>
+
+<h3 align="center">📚 Studying 📚</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp
+</div>
+
+<br>
+
+
+<h3 align="center">📫 Contact 📫</h3>
+<div align="center">
+  <a href="https://bookcord.tistory.com/">
+    <img src="https://img.shields.io/badge/tistory-FE642E?style=for-the-badge&logo=tistory&logoColor=white" />&nbsp
+  </a>
+  <a href="mailto:leemina0815@gmail.com">
+    <img
+      src="https://img.shields.io/badge/leemina0815@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
+</div>
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=mal0070&show_icons=true&hide_border=true)](https://github.com/mal0070)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mal0070&layout=compact)](https://github.com/mal0070)
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Swift-3DDC84?style=flat-square&logo=Swift&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/iOS-007396?style=flat-square&logo=IOS&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Javascript-00599C?style=flat-square&logo=Javascript&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
 
