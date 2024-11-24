@@ -29,8 +29,8 @@
 
 <h3 align="center">📝 Education 📝</h3>
 <div align="center">
-  <p>Konkuk University Smart ICT Convergence, BE (Seoul, 2019-2024)</p>
-  <p>New York Language Center (Manhattan, NY, 2024) </p>
+  <h4>Konkuk University Smart ICT Convergence, BE</h4> <p>Seoul, 2019-2024</p>
+  <h4>New York Language Center</h4> <p>Manhattan, NY, 2024 </p>
 </div>
 
 
